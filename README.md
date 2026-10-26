@@ -4,7 +4,7 @@
 
 This project develops a machine learning pipeline for the classification of six erythemato-squamous skin disorders using clinical and histopathological attributes.
 
-The project is based on the **PRCP-1027 Skin Disorder** project brief. The brief requires:
+The project is based on the **Skin Disorder** project brief. The brief requires:
 
 1. A complete exploratory data analysis report.
 2. A machine learning model to predict the skin-disease class.
