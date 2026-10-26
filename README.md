@@ -112,7 +112,7 @@ Skin-Disorder-Prediction-ML/
 ├── notebooks/
 │   └── Skin_disorder_prediction.ipynb
 │
-├── images/
+├── Results/
 │   ├── eda_age_distribution.png
 │   ├── eda_class_distribution.png
 │   ├── feature_importance.png
@@ -120,9 +120,6 @@ Skin-Disorder-Prediction-ML/
 │
 ├── data/
 │   └── README.md
-│
-├── docs/
-│   └── PROJECT_REQUIREMENTS.md
 │
 └── reports/
     ├── MODEL_COMPARISON.md
